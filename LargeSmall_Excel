@@ -1,0 +1,31 @@
+📊 Analisis Peringkat Nilai Siswa di Excel
+Deskripsi
+Proyek ini berfokus pada pengolahan dan analisis data nilai siswa menggunakan Microsoft Excel untuk menentukan peringkat berdasarkan nilai tertinggi hingga terendah.
+
+Dataset
+Data terdiri dari:
+Nama siswa
+Jenis kelamin
+Nilai
+
+Tools & Teknik yang Digunakan
+Microsoft Excel
+Pengurutan data (sorting)
+Penentuan ranking (peringkat)
+Identifikasi nilai terbesar dan terkecil
+
+Hasil
+Peringkat siswa berhasil ditentukan berdasarkan nilai
+Nilai terbesar dan terkecil dapat diidentifikasi
+Data tersusun lebih rapi dan mudah dipahami
+
+Tujuan Proyek
+Melatih analisis data sederhana di Excel
+Memahami cara menentukan ranking berdasarkan nilai
+Mengelola data agar lebih terstruktur
+
+Insight
+Penentuan peringkat merupakan salah satu bentuk analisis data dasar yang penting untuk membandingkan performa dan membantu pengambilan keputusan.
+
+Penutup
+Proyek ini merupakan latihan dasar dalam analisis data menggunakan Microsoft Excel sebagai langkah awal dalam pengembangan skill di bidang data.
